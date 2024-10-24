@@ -26,12 +26,12 @@ Per editar aquest repositori a MakeCode.
 ## Blocs ::
 ![image](https://github.com/user-attachments/assets/6099bb9a-a6a6-4611-8446-67eccf093085)
 
-* Si no fem res mostrarà un cor :
+* Si no fem res mostrarà un cor <br>:
 ![image](https://github.com/user-attachments/assets/8c8da546-dc3e-4491-ade3-c23e0a1a23ac)
 
-* Quan presionem A mostrarà pedra :
+* Quan presionem A mostrarà pedra <br>:
 ![image](https://github.com/user-attachments/assets/b6489b16-ddb3-4dc9-886e-12b88f898811)
-* Quan presionem B mostrarà paper
+* Quan presionem B mostrarà paper <br>:
 ![image](https://github.com/user-attachments/assets/333b6b53-725a-40c0-aafc-a73c32d38603)
-* Quan presionem A+B mostrarà tissores
+* Quan presionem A+B mostrarà tissores <br>:
 ![image](https://github.com/user-attachments/assets/4c2281e5-1aa3-4b8e-beb2-11041540a518)

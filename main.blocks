@@ -1,13 +1,13 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="DCD8QG28zWlcHyg9apf9" x="206" y="-74"><statement name="HANDLER"><block type="basic_show_icon" id="Ofo|U[mo(xGm/JR9cs3F"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_button_event" id="i}J_%{a=F-g%01.mI5~I" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="{.|C8|-B}wX7+c`ygp/5"><field name="LEDS">`
-        . . . . . 
-        . # # # . 
-        . # # # . 
-        . # # # . 
-        . . . . .
-        `</field></block></statement></block><block type="device_button_event" id="hwXFPaEz3*A(|-KaOyek" x="438" y="5"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="QBJMci[Yhs0/FZ2VKhga"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="mGnHm[y8}Lw$SFED9NCy">opcio_maquina</variable><variable id="}Nns0d4aERi/3,Cr68jb">llista_opcions</variable></variables><block type="pxt-on-start" id="NEylA[[^C{%yt0o%eME}" x="20" y="20"><statement name="HANDLER"><block type="variables_set" id="RGX=M^78%OZRl),68,61"><field name="VAR" id="}Nns0d4aERi/3,Cr68jb">llista_opcions</field><value name="VALUE"><shadow type="math_number" id="?.j_[?NB@JjQ5tX=t7r|"><field name="NUM">0</field></shadow><block type="lists_create_with" id="KVz2[Ct8L?;I2E7Ov|oL"><mutation items="3" horizontalafter="3"></mutation><value name="ADD0"><shadow type="math_number" id="wzmfhG8Yx1{tKD;|Md7;"><field name="NUM">1</field></shadow></value><value name="ADD1"><shadow type="math_number" id="IQ]T,6FchHm8mURfzy-%"><field name="NUM">2</field></shadow></value><value name="ADD2"><shadow type="math_number" id="C(yRC!aEa*7tVYGN6$oV"><field name="NUM">3</field></shadow></value></block></value><next><block type="basic_show_icon" id="$ZQdcTv]uQj2ovLJ[:su"><field name="i">IconNames.Heart</field></block></next></block></statement></block><block type="device_button_event" id="-34W!EO}h(W;@9=yp@Y#" x="289" y="149"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="variables_set" id="F3n1%o[!85TLLLS%#!i%"><field name="VAR" id="mGnHm[y8}Lw$SFED9NCy">opcio_maquina</field><value name="VALUE"><shadow type="math_number" id="HajQr;x[*MHUvV5q)0SF"><field name="NUM">0</field></shadow><block type="array_pickRandom" id="=1=%$M{MU#_@(N9%~J$]"><value name="list"><block type="variables_get" id=";-/;P/UcupIbC[OdY9v*"><field name="VAR" id="}Nns0d4aERi/3,Cr68jb">llista_opcions</field></block></value></block></value><next><block type="device_show_leds" id="MF26K?bK~?le6!W!2^Es"><field name="LEDS">`
         . # # # . 
         . # # # . 
         . # # # . 
         . # # # . 
         . # # # .
-        `</field></block></statement></block><block type="device_forever" id="cTR6+c([~dr5P.5GTh:6" x="205" y="65"><statement name="HANDLER"><block type="basic_show_icon" id="|{0DFeo{0j_7NL1(eb1V"><field name="i">IconNames.Heart</field></block></statement></block><block type="device_button_event" id="}tilf=AT(COt.}RxC}TF" x="206" y="201"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="basic_show_icon" id="*gA87TBd;pHD{*{[w:xT"><field name="i">IconNames.Scissors</field></block></statement></block></xml>
+        `</field></block></next></block></statement></block><block type="device_button_event" id="W6`y;;F`=V]?aj},Mkz$" x="20" y="426"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="tc;e0=066^mViGzm.q/Q"><field name="LEDS">`
+        . . . . . 
+        . # # # . 
+        . # # # . 
+        . # # # . 
+        . . . . .
+        `</field></block></statement></block><block type="device_forever" id="d,%Hgk)zBcKt*0YfWzsl" x="546" y="426"></block><block type="device_button_event" id="@V8n9Pg@tdX|-}z+SElv" x="252" y="593"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="basic_show_icon" id=":z??.{[[[/p?e_no5JU1"><field name="i">IconNames.Scissors</field></block></statement></block></xml>

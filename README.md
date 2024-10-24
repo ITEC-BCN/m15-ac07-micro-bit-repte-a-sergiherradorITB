@@ -22,3 +22,16 @@ Per editar aquest repositori a MakeCode.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+## Blocs ::
+![image](https://github.com/user-attachments/assets/6099bb9a-a6a6-4611-8446-67eccf093085)
+
+* Si no fem res mostrarà un cor :
+![image](https://github.com/user-attachments/assets/8c8da546-dc3e-4491-ade3-c23e0a1a23ac)
+
+* Quan presionem A mostrarà pedra :
+![image](https://github.com/user-attachments/assets/b6489b16-ddb3-4dc9-886e-12b88f898811)
+* Quan presionem B mostrarà paper
+![image](https://github.com/user-attachments/assets/333b6b53-725a-40c0-aafc-a73c32d38603)
+* Quan presionem A+B mostrarà tissores
+![image](https://github.com/user-attachments/assets/4c2281e5-1aa3-4b8e-beb2-11041540a518)

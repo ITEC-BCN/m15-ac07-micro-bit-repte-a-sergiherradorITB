@@ -1,11 +1,12 @@
 {
-    "name": "Demo",
+    "name": "RepteA-Sergi ",
     "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "microbit-template-repo": "github:raimonizard/microbit-template-repo#1eca371cfaba363a0a7e4a4ad4f61f1b094662a5"
     },
     "files": [
         "main.blocks",

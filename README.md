@@ -23,8 +23,21 @@ Per editar aquest repositori a MakeCode.
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
 
+## Lògica del Joc
+### Elecció de Figura
+En prémer un dels botons o combinacions en el Micro:bit, s’escull una figura:
+
+- **Botó A**: Pedra
+- **Botó B**: Paper
+- **Botó A + B**: Tisores
+
+### Resultat
+El resultat es mostrarà a la pantalla després de cada elecció. Les possibles respostes són:
+- **W**: Has guanyat
+- **T**: Has empatat
+- **M**: La màquina ha guanyat
 ## Blocs ::
-![image](https://github.com/user-attachments/assets/6099bb9a-a6a6-4611-8446-67eccf093085)
+![image](https://github.com/user-attachments/assets/5a668356-ce58-4fe2-a1d7-a2ecdea9ef76)
 
 * Si no fem res mostrarà un cor <br>:
 ![image](https://github.com/user-attachments/assets/8c8da546-dc3e-4491-ade3-c23e0a1a23ac)
